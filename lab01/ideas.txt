@@ -1,0 +1,15 @@
+Exercise 1.1
+
+- I thought that it would be a great idea to build some sort of social app exclusively for calvin students. Due to the lack of social events and very limited interaction in dorms
+new students (and maybe even some returning students) arent making the connections that they would typically make in a corona free semester.  The app could allow people upload pictures
+, give some background information and swipe on other sudents theyd like to connect with. So basically you could swipe right if you see someone whose interests align with yours
+or swipe left if they dont and if both of you swipe right then its a match and then you can commence interaction with the person (virtually that is)
+
+
+- WACKY IDEA
+An application that allows you to talk directly to your computer and have it display code in any programming language of your choice. It would be super convenient if 
+you could just talk throught the ideas i your head and your computer would do a kind of voice to text conversion but instead it would be code. It doesnt have to be perfect
+afterwards you could edit what has already been displayed on the screen
+
+
+
