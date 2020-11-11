@@ -17,10 +17,10 @@ user and password are stored as Heroku configuration variables rather than in th
 
 ANSWERS FOR HOMEWORK03
 
-<https://arcane-earth-32186.herokuapp.com/players>
-<https://arcane-earth-32186.herokuapp.com/players/1>
-<https://arcane-earth-32186.herokuapp.com/human_games>
-<https://arcane-earth-32186.herokuapp.com/>
+* <https://arcane-earth-32186.herokuapp.com/players>
+* <https://arcane-earth-32186.herokuapp.com/players/1>
+* <https://arcane-earth-32186.herokuapp.com/human_games>
+* <https://arcane-earth-32186.herokuapp.com/>
 
 
 b. "/" and "/human_games" are both idempotent and nullipotent. "/players" allows get requests (idempotent and nullipotent) but also allows put, post, and delete requests. Both delete and put are idempotent but not nullipotent and post requests are neither.
