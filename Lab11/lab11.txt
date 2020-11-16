@@ -1,0 +1,17 @@
+# CS 262- lab11
+
+ I reviewed the following suggestions in news.js in my team's project client using ESLint.
+
+
+
+- There were a few spelling errors that were corrected so i implemented most of their suggestions
+- Deleted all variables and declarations that were not used
+- Accepted all indentation suggestions and whitespace changes
+- Switched any let assignments to const if they are not reassigned
+
+
+
+REJECTED SUGGESTIONS
+- The formatter suggested that i nest a function inside another function for some reason but i ignored it because it wasnt going to return
+the desired outcome
+- ESLint by default wants unneccessary semicolons removed, google javascript style says they should be kept
